@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">attacker</string>
+    <string name="bank_name">NorthBridge Bank</string>
+    <string name="bank_tagline">Mobile Secure Access</string>
+    <string name="login_title">Welcome back</string>
+    <string name="login_message">Session expired. Please sign in to continue.</string>
+    <string name="username_hint">Online banking ID</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Sign in</string>
+    <string name="disclaimer_text">Educational PoC: entered data is discarded.</string>
+</resources>

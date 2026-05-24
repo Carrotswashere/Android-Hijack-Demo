@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Victim</string>
+    <string name="bank_name">NorthBridge Bank</string>
+    <string name="bank_tagline">Mobile Secure Access</string>
+    <string name="home_title">Accounts overview</string>
+    <string name="home_subtitle">This is the real victim application.</string>
+    <string name="balance_label">Available balance</string>
+    <string name="balance_value">$12,480.36</string>
+    <string name="last_login">Last login: Today, 09:42</string>
+    <string name="status_text">Home page loaded successfully.</string>
+</resources>
