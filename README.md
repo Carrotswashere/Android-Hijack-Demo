@@ -161,6 +161,7 @@ This hides the attacker task from the Recent Apps screen, making the malicious a
 ---
 
 # Flow Diagram
+<img width="1038" height="701" alt="image" src="https://github.com/user-attachments/assets/316f69c3-866b-4b44-813c-a330c00a24a2" />
 
 The project includes a flow diagram describing:
 
@@ -174,6 +175,7 @@ The project includes a flow diagram describing:
 ---
 
 # Architectural Diagram
+<img width="1169" height="457" alt="image" src="https://github.com/user-attachments/assets/8df15bf4-d314-4adf-b215-396dceb41316" />
 
 The architectural diagram contains:
 
